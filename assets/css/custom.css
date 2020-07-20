@@ -1,0 +1,22 @@
+h1, h2 {
+    text-align: center;
+}
+
+#contenido {
+    margin-top: 40px;
+}
+
+.boton-borrar {
+    padding: 5px;
+    text-align: center;
+    float: right;
+    border: none;
+    padding-top: 0px;
+}
+
+.boton-borrar:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
